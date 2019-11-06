@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://getbootstrap.com/docs/4.3/examples/blog/ -->
+<html lang="tr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Blog Template · Bootstrap</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/blog/">
+
+    <!-- Bootstrap core CSS -->
+<link href="./index_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="./index_files/css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="./index_files/blog.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+  <header class="blog-header py-3">
+    <div class="row flex-nowrap justify-content-between align-items-center">
+      <div class="col-4 pt-1">
+        <a class="text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">ANA SAYFA</a>
+      </div>
+      <div class="col-4 text-center">
+        <a class="blog-header-logo text-dark" href="https://getbootstrap.com/docs/4.3/examples/blog/#">BEŞİKTAŞ J.K.</a>
+      </div>
+      <div class="col-4 d-flex justify-content-end align-items-center">
+        <a class="text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="mx-3" role="img" viewBox="0 0 24 24" focusable="false"><title>Search</title><circle cx="10.5" cy="10.5" r="7.5"></circle><path d="M21 21l-5.2-5.2"></path></svg>
+        </a>
+        <a class="btn btn-sm btn-outline-secondary" href="https://getbootstrap.com/docs/4.3/examples/blog/#">ARA</a>
+      </div>
+    </div>
+  </header>
+
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">KULÜP</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">ŞİRKETLER</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">MARKALAR</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">BRANŞLAR</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">HABERLER</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">FİKSTÜR</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">SPOR OKULLARI</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">VODAFONE PARK</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">KARTAL YUVASI</a>
+      <a class="p-2 text-muted" href="https://getbootstrap.com/docs/4.3/examples/blog/#">MÜZE VE ŞEREF TURU</a>
+    </nav>
+  </div>
+
+  <div class="jumbotron p-4 p-md-5 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+      <h1 class="display-4 font-italic">Beşiktaş Jimnastik Kulübü</h1>
+      <p class="lead my-3">Neden mi Beşiktaş? Çünkü; Siyah Beyaz başlamıştı herşey… Fotoğraflar Siyah Beyazdı.. Yazlık sinemalar Siyah Beyazdı.. Gözümüzün kara, alnımızın ak olması öğretildi hep… Kara gecelerde beyaz sayfalara döktük içimizi.. Kara sevdalarımız oldu, Beyaz umutlarla beslediğimiz.. Ve gün gelecek; Kara toprağa Beyaz kefenlerle gireceğiz hepimiz… İşte bu yüzden Beşiktaş...</p>
+      <p class="lead mb-0"><a href="https://getbootstrap.com/docs/4.3/examples/blog/#" class="text-white font-weight-bold"></a></p>
+    </div>
+  </div>
+
+  <div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">SİYAH</strong>
+          <h3 class="mb-0">AKTİF BRANŞLAR</h3>
+          <div class="mb-1 text-muted"></div>
+          <p class="card-text mb-auto">Atletizm, Basketbol, Bedensel Engelliler,Boks ,Briç, Futbol ,Güreş, Hentbol, Jimnastik, Kürek, Masa Tenisi, Satranç, Voleybol</p>
+          <a href="https://getbootstrap.com/docs/4.3/examples/blog/#" class="stretched-link"></a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text></svg>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">BEYAZ</strong>
+          <h3 class="mb-0">YAPILMIŞ SPORLAR</h3>
+          <div class="mb-1 text-muted"></div>
+          <p class="mb-auto">Bilardo, Binicilik, Bisiklet, Eskrim, Halat Çekme, Halter, Hokey,Judo, Okçuluk, Su Sporları</p>
+          <a href="https://getbootstrap.com/docs/4.3/examples/blog/#" class="stretched-link"></a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text></svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main role="main" class="container">
+  <div class="row">
+    <div class="col-md-8 blog-main">
+      <h3 class="pb-4 mb-4 font-italic border-bottom">
+        BJK HAKKINDA
+      </h3>
+
+      <div class="blog-post">
+        <h2 class="blog-post-title">TARİHÇE</h2>
+        <p class="blog-post-meta">  <a href="https://getbootstrap.com/docs/4.3/examples/blog/#"></a></p>
+
+        <p>1902 sonbaharında Beşiktaş Serencebey Mahallesi'nde, o zamanın Medine Muhafızı olan Osman Paşa'nın konağının bahçesinde, 22 kişilik genç grup, haftanın bazı günlerinde toplanıp jimnastik hareketleri yapmaktaydı.</p>
+        <hr>
+        <p>Başta Osman Paşa'nın oğulları Mehmet Şamil ve Hüseyin Bereket ile mahellenin gençlerinden Ahmet Fetgeri, Mehmet Ali Fetgeri, Nazımnazif, Cemil Feti ve Şevket Beyler’in aralarında bulunduğu gençlerin ilk ilgilendikleri spor branşları, özellikle barfiks, paralel, güreş, halter, aletli ve aletsiz jimnastikti. O sıralarda siyasi hareketler dolayısıyla her türlü toplanmadan ürkerek hafiyeler dolaştıran 2. Abdülhamit'in adamları Serencebey'deki bu toplanmaları haber alınca, spor yapan gençler bir baskınla karakola götürüldü. Bu sporcu gençlerin bir kısmının saray erkanına yakın olması, ayrıca o dönemlerde kötü gözle bakılan futbol oynamadıkları ve sadece beden hareketleri yaptıklarını belirtmeleriyle gergin durum yumuşadı. Hatta saray çevresinden Şeyhzade Abdülhalim bu sporcuları destekledi ve sık sık antrenmanları seyretmeye başladı. Ünlü boksör ve güreşçi Kenan Bey de antrenmanlara gelerek güreş ve boks hareketleri göstermeye başladı. </p>
+        <blockquote>
+          <p>1903 Mart'ında ise özel bir izinle Bereket Jimnastik Kulübü kuruldu. 1908'de Meşrutiyet'in ilanıyla sportif hareketler biraz daha serbestlik kazandı. 13 Nisan 1909'daki (31 Mart 1325) siyasi olaylardan sonra Edirne'de bulunan Fuat Balkan ve Mazhar Kazancı, Hareket Ordusu ile İstanbul'a geldi. Siyasi olaylar yatıştıktan sonra iyi bir eskrim hocası olan Fuat Balkan ile başta güreş ve halter sporlarını yapan Mazhar Kazancı, Serencebey'de jimnastik yapan gençleri bularak birlikte spor yapma fikrini kabul ettirdi. Fuat Balkan, Ihlamur'daki evinin altındaki yeri, kulüp merkezi yaptı ve Bereket Jimnastik Kulübü'nün adı Beşiktaş Osmanlı Jimnastik Kulübü olarak değiştirildi. Böylece jimnastik, güreş, boks, eskrim ve atletizmin ön planda tutulduğu güçlü bir spor kulübü meydana geldi. Fuat Bey'in arkadaşları Refik ve Şerafettin Beyler de iyi birer eskrimciydi. </p>
+        </blockquote>
+        <p>Bu arada Beyoğlu Mutasarrıfı Muhittin Bey'in teşvikiyle Beşiktaş Osmanlı Jimnastik Kulübü, 26 Ocak 1911 tarihinde tescil edilen ilk Türk spor kulübü oldu. Semtin gençlerinin bu spor kulübüne ilgisi büyüdü ve spor yapan üyelerin sayısı bir anda 150'ye yükseldi. Kulübün merkezi de Ihlamur'dan Akaretler'de 49 numaralı binaya taşındı. Bir süre sonra bu bina da küçük gelince, yine Akaretler'de 84 numaralı binaya geçildi. Bu binanın arkasındaki bahçe de bir spor sahası haline getirildi. </p>
+        <h2>KULÜP KİMLİĞİ</h2>
+        <p>Kulüp Kimliği:	Beşiktaş Jimnastik Kulübü
+           Kuruluş Tarihi:	1903           
+           Renkler:	Siyah - Beyaz
+           Kuruluş İsmi:	Beşiktaş Bereket Jimnastik Kulübü
+            İlk Başkanı:	Mehmet Şamil Bey
+            İlk Şampiyonluk	Jimnastik: 1911
+            Futbol Şubesi Kuruluş Tarihi:	Ağustos 1911
+            Futbolda İlk Şampiyonluk:	1919 Türk İdman Birliği Ligi
+            Futbol Liglerine İlk Katılış:	1919</p>
+        <h3>BEŞİKTAŞ JK ŞEREF TURU</h3>
+        <p>Türkiye’nin ilk stadyum turu Beşiktaş JK Şeref Turu’na katıl, anı şereflendir!
+
+Beşiktaş JK Şeref Turu; dünya standartlarında, özel olarak tasarlanmış rotası ile Vodafone Park’ın kapılarını ziyaretçilere açtı ve tüm sporseverleri “Şeref Turu” atmaya çağırıyor!
+
+Bambaşka bir keşif yolculuğu…
+
+Beşiktaş JK Şeref Turu ziyaretçileri, güzergâh kapsamında rehber eşliğinde; Basın Tribünü, Basın Locası, Yönetim Locası, Basın Toplantı Odası, Beşiktaş JK Soyunma Odası, Misafir Takım Soyunma Odası, yedek kulübesi, saha gibi bir stadyumun en merak edilen bölümlerini görme fırsatı yakalarken özel olarak tasarlanmış alanlar ile de bambaşka bir Beşiktaş JK dünyasına adım atıyorlar.
+
+Unutulmaz bir günün hatırası…
+
+Şeref Turu ziyaretçileri tur kapsamında stadı sadece görmekle kalmıyor; unutulmaz anılarla dolu 1 saatin sonunda Green box teknolojisi ile farklı kompozisyonlarda sevdiği futbolcularla ve Beşiktaş’ın unutulmaz kupaları ile fotoğraflarda bir araya gelme şansı da yakalıyor.
+
+Bu Şeref Senin!
+
+Belirli saatlerde rehberler eşliğinde gezilen ve yaklaşık 1 saat süren Beşiktaş JK Şeref Turu hakkında tur günleri, tur saatleri, bilet detayları ve diğer bilgilere www.serefturu.com adresinden erişebilirsiniz.</p>
+        <h3>Bilet Ücretleri</h3>
+        <p>Şeref Turu Bileti
+
+Tam Bilet 50,00 ₺
+İndirimli Bilet 30,00 ₺ (7-14 yaş çocuklar, öğrenci, öğretmen, er/erbaş kimliğine sahip kişiler, 65 yaş üzeri kişiler)
+Ücretsiz Bilet (0-6 yaş arası çocuklar, sarı basın kartı, engelli(+1 refakatçi), gazi, gazi ve şehit yakınları)
+Şeref Turu ziyaretçilerine, Beşiktaş JK Müzesi ziyareti indirimli.
+Beşiktaş JK Müzesi bileti ile Şeref Turu bankosuna gelen ziyaretçilere, Şeref Turu ziyareti sırasında, tam bilet ve indirimli bilet üzerinden %20 indirim uygulanacaktır.</p>
+      </div><!-- /.blog-post -->
+
+      <div class="blog-post">
+        <h2 class="blog-post-title">TESİSLER</h2>
+        <p class="blog-post-meta"> <a href="https://getbootstrap.com/docs/4.3/examples/blog/#"></a></p>
+
+        <p>BJK AKATLAR SPOR KOMPLEKSİ
+            BJK FULYA SÜLEYMAN SEBA KOMPLEKSİ
+            BJK KOLEJİ
+            BJK NEVZAT DEMİR TESİSLERİ
+            BJK PLAZAPENDİK GAZİ AKINAL NO: 1903 SOSYAL TESİSİSÜLEYMAN SEBA SPOR SALONU
+            BJK ŞEVKET BELGİN SPOR SALONUHAKKI YETEN FUTBOL ALTYAPI TESİSLERİAKATLAR MEHMET ÜSTÜNKAYA NO:1903 SOSYAL TESİSİ</p>
+      </div><!-- /.blog-post -->
+
+      <div class="blog-post">
+        <h2 class="blog-post-title">İletişim</h2>
+        <p class="blog-post-meta"> <a href="https://getbootstrap.com/docs/4.3/examples/blog/#"></a></p>
+
+        <p>Kulüp Adres:
+Vişnezade Mahallesi Kadırgalar Caddesi No:1 Vodafone Park Otopark Girişi Kat:1 34357 Beşiktaş - İstanbul
+
+Beşiktaş Futbol A.Ş. Adres:
+Vişnezade Mahallesi Dolmabahçe Caddesi No:1 Vodafone Park Dolmabahçe Girişi Kat:-2 İç Kapı No:1113 34357 Beşiktaş - İstanbul
+
+Telefon
++90 (212) 948 1903 
+
+Faks
++90 (212) 948 1999
+
+Kulübümüz ile ilgili tüm soru ve önerileriniz için:
+bilgi@bjk.com.tr </p>
+      </div><!-- /.blog-post -->
+
+      <nav class="blog-pagination">
+        <a class="btn btn-outline-primary" href="https://getbootstrap.com/docs/4.3/examples/blog/#">Older</a>
+        <a class="btn btn-outline-secondary disabled" href="https://getbootstrap.com/docs/4.3/examples/blog/#" tabindex="-1" aria-disabled="true">Newer</a>
+      </nav>
+
+    </div><!-- /.blog-main -->
+
+    <aside class="col-md-4 blog-sidebar">
+      <div class="p-4 mb-3 bg-light rounded">
+        <h4 class="font-italic">Dipnot</h4>
+        <p class="mb-0">İlk tescil edilen ve Ay-Yıldızlı armayı göğsünde taşıyan ilk Kulüp’tür.</p>
+      </div>
+
+      <div class="p-4">
+        <h4 class="font-italic">Divan Kurulu</h4>
+        <ol class="list-unstyled mb-0">
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Tevfik Yamantürk</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Fethi Hinginar</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Turgay Pirinç</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Fikret Kuzucu</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Korkut Soydan</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Osman Mesci</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Hakan Erdoğan</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">İlhan Gölvan</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Haluk Özgerçek</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Mert Vural</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Alim Emre Şentürk</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Barış Sufracı</a></li>
+        </ol>
+      </div>
+
+      <div class="p-4">
+        <h4 class="font-italic">Sosyal Medya </h4>
+        <ol class="list-unstyled">
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Instagram</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Twitter</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Facebook</a></li>
+        </ol>
+      </div>
+    </aside><!-- /.blog-sidebar -->
+
+  </div><!-- /.row -->
+
+</main><!-- /.container -->
+
+<footer class="blog-footer">
+  <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+  <p>
+    <a href="https://getbootstrap.com/docs/4.3/examples/blog/#">Back to top</a>
+  </p>
+</footer>
+
+
+</body></html>
